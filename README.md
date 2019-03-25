@@ -1,2 +1,2 @@
 # test-for-testers
-Exercices for testers.
+Exercises for testers.
